@@ -1,4 +1,4 @@
-; chilli.ahk — Pepper Patch pattern by Hylite
+; chilli.ahk — Pepper Patch pattern by Cyclone
 ; Field: 28 wide x 21 tall | Walls: TOP + LEFT + RIGHT (open bottom)
 ;
 ; Sequence per rep:
