@@ -1,4 +1,4 @@
-; chilli-str.ahk — Strawberry Field pattern by Hylite
+; chilli-str.ahk — Strawberry Field pattern by Cyclone
 ; Walls: top + right | InvertFB baked in
 ;
 ; Settings: Size M | Reps 3 | InvertLR off | InvertFB off
