@@ -1,4 +1,4 @@
-; chilli-rose.ahk — Rose Field pattern by Hylite
+; chilli-rose.ahk — Rose Field pattern by Cyclone
 ; Field: walls on bottom-right corner (partial bottom + partial right)
 ;
 ; Sequence per rep:
